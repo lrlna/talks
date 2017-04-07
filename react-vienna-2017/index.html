@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Scavanging for heaps: Garbage Collection in V8</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Space+Mono" rel="stylesheet">
+    <link href="index.css" rel="stylesheet">
+    <script type='text/javascript' src="index.js"></script>
+  </head>
+  <body>
+    <div>Garbage Collection in V8</div>
+    <div> I am Irina </div>
+    <div><a href="https://twitter.com/_lrlna">lrlna</a>on twitter dot com</div>
+    <div><img src="/img/lrlna.png" alt="lrlna"></div>
+    <div>Garbage collection in V8</div>
+    <div>
+      o(*^▽^*)o
+    </div>
+    <div>V8</div>
+    <div><em>compiles</em> and executes your .js</div>
+    <div>V8</div>
+    <div>generational, stop-the-world <em>garbage collector </em></div>
+    <div><em> So what's garbage collection?</em></div>
+    <div>Memory management</div>
+    <div>no interface to access memory in ECMAScript</div>
+    <div>memory management rights™ go to V8</div>
+    <div><img src="/img/typical-frame.png" alt="typical frame"></div>
+    <div>typycal frame === <em>60 seconds</em></div>
+    <div><img src="/img/stack-heap-queue.png" alt="stack-heap-queue"></div>
+    <div>garbage collector determines whether objects are <em>dead</em> or <em>alive</em></div>
+    <div>allocating memory is <em>cheap + fast </em></div>
+    <div>until the heap is full</div>
+    <div>V8 uses <em>generational garbage collection</em></div>
+    <div><img src="/img/generational-garbage-collection.png" alt="generational garbage collection"></div>
+    <div>objects don't mingle with younger generations</div>
+    <div>make for a cleaner sweep</div>
+    <div><img src="/img/object-pointer.png" alt="object pointer"></div>
+    <div><img src="/img/object-pointer2.png" alt="object pointer two"></div>
+    <div>Resources</div>
+    <div>
+      <a class="smaller" href="https://github.com/thlorenz/v8-perf">thlorenz/v8-perf</a>
+      </br>
+      <a class="smaller" href="https://www.youtube.com/watch?v=8aGhZQkoFbQ">zee event loop talk</a>
+      </br>
+      <a class="smaller" href="https://www.youtube.com/watch?v=VhpdsjBUS3g&feature=youtu.be&t=10m54s">google's v8 talk</a>
+      </br>
+      <a class="smaller" href="http://www.memorymanagement.org/">memory management</a>
+    </div>
+    <div><a href="https://twitter.com/_lrlna">lrlna</a>on twitter dot com</div>
+    <div>Thanks for having me ✨ 😘</div>
+  </body>
+</html>
