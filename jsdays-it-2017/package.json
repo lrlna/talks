@@ -1,0 +1,33 @@
+{
+  "name": "nodeconf-bcn-2017",
+  "version": "1.0.0",
+  "description": "nodeconf barcelona talk on file compression",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "keywords": [
+    "file",
+    "compression",
+    "nodeconf",
+    "talk"
+  ],
+  "author": "Irina Shestak",
+  "license": "MIT",
+  "devDependencies": {
+    "choo": "^5.4.0",
+    "compressjs": "^1.0.3",
+    "merry": "^4.7.2",
+    "node-snappy": "^0.1.4",
+    "pump": "^1.0.2",
+    "xhr": "^2.4.0"
+  },
+  "dependencies": {
+    "iltorb": "^1.2.1",
+    "pump": "^1.0.2",
+    "xhr": "^2.4.0"
+  }
+}
