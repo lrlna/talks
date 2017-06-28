@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "iltorb": "^1.2.1",
+    "node-snappy": "^0.1.4",
     "pump": "^1.0.2",
     "xhr": "^2.4.0"
   }

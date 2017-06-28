@@ -10,3 +10,4 @@ This contains:
 | nodeConf Barcelona | 04/07/2017 | [KNOCK-KNOCK-WHO-THERE-FILE-COMPRESSION-TALK.TAR.TRZ.BZ2.GZ](https://lrlna.github.io/shiny-talks/nodeconf-bcn-2017/#0) |
 | JSConf EU | 05/06/2017 | [KNOCK-KNOCK-WHO-THERE-FILE-COMPRESSION-TALK.TAR.TRZ.BZ2.GZ](https://lrlna.github.io/shiny-talks/jsconfeu-2017/#0) |
 | JSDays IT | 05/11/2017 | [KNOCK-KNOCK-WHO-THERE-FILE-COMPRESSION-TALK.TAR.TRZ.BZ2.GZ](https://lrlna.github.io/shiny-talks/jsdays-it-2017/#0) |
+| LNUG | 06/28/2017 | [KNOCK-KNOCK-WHO-THERE-FILE-COMPRESSION-TALK.TAR.TRZ.BZ2.GZ](https://lrlna.github.io/shiny-talks/lnug-june-2017/#0) |
